@@ -1,4 +1,3 @@
-
 import random
 
 
@@ -22,24 +21,5 @@ for xrange in range(sentance_length):
             lines.append(line)  #add that line to our list of lines.
 
     #print(lines)        #prints the list of all object.
+    #print(lines[word_selection])
     print(lines[word_selection].rstrip())
-
-
-
-
-
-#    print(lines[word_selection])
-
-
-
-
-
-
-
-
-#Generate a random number between 1 and 7
-
-#Repeat program this many Timers
-
-
-#print entire string of words
