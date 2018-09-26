@@ -3,7 +3,7 @@ import random
 
 
 #Generate random number between 1 - 7
-sentance_length = random.randrange(1,7)
+sentance_length = random.randrange(1,8)
 
 print("And God Said:")
 
@@ -11,7 +11,7 @@ for xrange in range(sentance_length):
 
 
     #Generate random number between 1 - 58110
-    word_selection = random.randrange(1,58110)
+    word_selection = random.randrange(1,58111)
     #print(word_selection)
 
     #Pick a word from the english library
